@@ -7,4 +7,6 @@ int main()
     cout << "Enter i: ";
     cin >> i;
     cout << i << endl;
+
+    int b;
 }
